@@ -1,0 +1,1 @@
+"D:\HackTools\Fuzz\__FuzzWork\dynamorio\build_x64\bin64\drrun.exe" -t drcov -- "D:\HackTools\Fuzz\WinAFLFuzz\testcase\64\HelloWorld.exe" "D:\HackTools\Fuzz\WinAFLFuzz\testcase\64\password.txt"
